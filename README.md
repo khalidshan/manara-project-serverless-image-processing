@@ -7,7 +7,7 @@ This project demonstrates a serverless architecture using AWS Lambda to process 
 
 ## 📊 Architecture Diagram
 
-> *(Include a visual diagram here if used in GitHub or documentation platform)*
+![Architecture Diagram](diagram.png)
 
 ---
 
